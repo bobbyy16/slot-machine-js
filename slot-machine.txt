@@ -1,0 +1,7 @@
+A slot machine, also known as a fruit machine, poker machine, puggy, or simply a slot, is a popular gambling machine found in casinos, bars, and other gaming establishments. It's called a "slot machine" because it typically consists of a series of rotating reels or cylinders with symbols printed on them. Players insert coins, tokens, or bills into the machine and then pull a lever or press a button to spin the reels.
+
+|A|B|C| -> Lost
+|A|A|A| -> Won
+|C|B|A| -> Lost
+
+Intusion -> 
